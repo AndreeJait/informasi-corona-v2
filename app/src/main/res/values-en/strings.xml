@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Informasi Corona</string>
+    <string name="title_home">Global</string>
+    <string name="title_dashboard">Continent</string>
+    <string name="title_notifications">Country</string>
+
+    <string name="splash_header">Corona Information</string>
+    <string name="splash_subheader">Get corona information.</string>
+
+    <string name="created_by">Created by Andree Panjaitan using service https://disease.sh/</string>
+
+    <string name="death">Deaths</string>
+    <string name="today_death">Today Deaths</string>
+    <string name="cases">Cases</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="today_recovered">Today Recovered</string>
+    <string name="active">Active</string>
+    <string name="critical">Critical</string>
+
+    <string name="continent_search">Searh continent here...</string>
+    <string name="country_search">Search country here...</string>
+</resources>

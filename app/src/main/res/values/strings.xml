@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Informasi Corona</string>
+    <string name="title_home">Global</string>
+    <string name="title_dashboard">Continent</string>
+    <string name="title_notifications">Country</string>
+
+    <string name="splash_header">Informasi Corona</string>
+    <string name="splash_subheader">Dapatkan Informasi corona.</string>
+
+    <string name="created_by">Dibuat oleh Andree Panjaitan menggunakan service: https://disease.sh/</string>
+
+    <string name="death">Jumlah Meninggal</string>
+    <string name="today_death">Jumlah Meninggal Hari Ini</string>
+    <string name="cases">Jumlah Kasus</string>
+    <string name="today_cases">Jumlah Kasus Hari Ini</string>
+    <string name="recovered">Jumlah Sembuh</string>
+    <string name="today_recovered">Jumlah Sembuh Hari Ini</string>
+    <string name="active">Aktif</string>
+    <string name="critical">Kritikal</string>
+
+    <string name="continent_search">Cari Benua Disini</string>
+    <string name="country_search">Cari Negara Disini</string>
+</resources>
